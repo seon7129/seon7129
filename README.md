@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seon7129&show_icons=true&theme=holi)
+<div align="center">
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seon7129&show_icons=true&theme=holi)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seon7129&layout=compact&theme=holi)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seon7129&layout=compact&theme=holi)
+
+</div>
