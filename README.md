@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
+<div>
+
+  [![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seon7129)](https://solved.ac/seon7129)
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seon7129&show_icons=true&theme=holi)
 
